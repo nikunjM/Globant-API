@@ -16,11 +16,13 @@ This is a sample REST API app using MySQL, Java and jersey Framework.<br>
 You need MySQL, Jersey framework jar files and eclipse or netbeans to run this project.<br>
 I have used maven to create project, it helped me to save time and also given me proper structure and jars. <br>
 You guys can find details here, it’s a youtube video <br>
-
+```json
 https://youtu.be/skltzZH7i4w<br>
+```
 There are multiple ways to do it you can either create dynamic web project and also download jersery jar manually using hibernate connection.<br>
-
+```json
 http://www.mkyong.com/hibernate/quick-start-maven-hibernate-mysql-example/<br>
+```
 Choice is upto you guys, but best way to do it is maven project.<br>
 There are certain things you need to install for using this app <br>
 1. Postman(https://www.getpostman.com/)<br>
